@@ -1,3 +1,9 @@
+# DB
+users.json
+
+# Bot Token
+token.txt
+
 # Logs
 logs
 *.log

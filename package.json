@@ -1,0 +1,25 @@
+{
+  "name": "conceitobot",
+  "version": "0.0.1",
+  "description": "Um bot conceitual",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroteosousa/conceitobot.git"
+  },
+  "author": "Pedro Sousa <pedroteosousa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedroteosousa/conceitobot/issues"
+  },
+  "homepage": "https://github.com/pedroteosousa/conceitobot#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "node-schedule": "^1.3.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}

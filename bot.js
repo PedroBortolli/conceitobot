@@ -20,7 +20,9 @@ const dates = [
 ]
 
 const titles = [
-	"consagrado", "sobrecarregado", "patrão", "paladino", "vingador", "estudante"
+	"consagrado", "sobrecarregado", "patrão", "paladino", "vingador", "estudante", "vagabundo",
+	"abençoado", "famigerado", "retardado", "iluminado", "desgraçado", "atrasado", "acordado",
+	"dorminhoco", "santificado"
 ]
 
 const makeMessage = () => {
